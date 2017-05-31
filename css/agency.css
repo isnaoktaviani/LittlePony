@@ -527,7 +527,7 @@ section h3.section-subheading {
     height: 170px;
     margin-left: -85px;
   }
-  .timeline-image h4 {
+  .timeline-image> h4 {
     margin-top: 40px;
   }
   .timeline > .timeline-inverted > .timeline-panel {
